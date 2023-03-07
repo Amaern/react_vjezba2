@@ -1,4 +1,4 @@
-const DrugaKompa = () => {
+ export const DrugaKompa = () => {
     return (
         <div>
             <h3>Druga komponenta</h3>

@@ -2,6 +2,9 @@
 import './App.css';
 import PrvaKompa from './components/PrvaKompa';
 import DrugaKompa from './components/DrugKompa';
+import TrecaKompa from './components/TrecaKompa';
+import CetvrtaKompa from './components/CetvrtaKompa';
+import PetaKompa from './components/PetaKompa';
 
 function App() {
   return (
@@ -9,6 +12,9 @@ function App() {
       <h1>Algebra</h1>
       <PrvaKompa />
       <DrugaKompa />
+      <TrecaKompa />
+      <CetvrtaKompa />
+      <PetaKompa />
     </div>
   );
 }
